@@ -1,0 +1,1 @@
+cd "e:\MY PROGRAM\" ; if ($?) { gcc function.c -o function } ; if ($?) { .\function }
